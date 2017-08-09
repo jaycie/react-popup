@@ -13,7 +13,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          <i className='fa fa-user'> 用户中心</i>
+          <i className='fa fa-user'> 一家用户</i>
         </p>
       </div>
     );
