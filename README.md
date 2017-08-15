@@ -95,11 +95,11 @@ export default class PopupDemo extends Component {
 ```
     
 ## Demo
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/confirm.png" width = "400" height = "auto" alt="confirm"/>
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/confirm2.png" width = "400" height = "auto" alt="confirm2"/>
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/loading.png" width = "400" height = "auto" alt="loading"/>
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/progress.png" width = "400" height = "auto" alt="progress"/>
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/nofity.png" width = "400" height = "auto" alt="nofity"/>
+<img src="https://raw.githubusercontent.com/jaycie/react-popup/master/screenshots/confirm.png" width = "400" height = "auto" alt="confirm"/>
+<img src="https://raw.githubusercontent.com/jaycie/react-popup/master/screenshots/confirm2.png" width = "400" height = "auto" alt="confirm2"/>
+<img src="https://raw.githubusercontent.com/jaycie/react-popup/master/screenshots/loading.png" width = "400" height = "auto" alt="loading"/>
+<img src="https://raw.githubusercontent.com/jaycie/react-popup/master/screenshots/progress.png" width = "400" height = "auto" alt="progress"/>
+<img src="https://raw.githubusercontent.com/jaycie/react-popup/master/screenshots/nofity.png" width = "400" height = "auto" alt="nofity"/>
 
 
 ### Props 
