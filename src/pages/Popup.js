@@ -1,14 +1,3 @@
-# react-popup
-Simple and powerful react popup component. Confirm, loading, progress, notify and so on  
-
-# Usage
-
-## install
-```javascript
-npm install react-popup-master --save
-```
-## code
-```javascript
 import React, { Component } from 'react';
 import Popup , { P } from '../components/popup';
 
@@ -92,23 +81,3 @@ export default class PopupDemo extends Component {
     );
   }
 }
-```
-    
-## Demo
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/confirm.png" width = "400" height = "auto" alt="confirm"/>
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/confirm2.png" width = "400" height = "auto" alt="confirm2"/>
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/loading.png" width = "400" height = "auto" alt="loading"/>
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/progress.png" width = "400" height = "auto" alt="progress"/>
-<img src="http://github.com/jaycie/react-popup/raw/master/screenshots/nofity.png" width = "400" height = "auto" alt="nofity"/>
-
-
-### Props 
-- 'components': Custom middle context component
-
-### Methods
-Method            |  Description
------------------ |  -----------
-`confirm()`       |  confirm  dialogs   
-`loading()`       |  loading dialogs
-`progress()`      |  progress dialogs
-`notify()`        |  notify dialogs
