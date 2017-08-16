@@ -10,7 +10,7 @@ npm install react-popup-master --save
 ## code
 ```javascript
 import React, { Component } from 'react';
-import Popup , { P } from '../components/popup';
+import Popup , { P } from 'react-popup-master';
 
 export default class PopupDemo extends Component {
   render() {
